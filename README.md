@@ -1,2 +1,5 @@
 # FirstRepo
-This is my first Repository.
+This is my first GIT Repository.
+<br>
+Author- Avinash Sharma
+
