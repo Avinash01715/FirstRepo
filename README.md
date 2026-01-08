@@ -1,5 +1,5 @@
 # FirstRepo
 This is my first GIT Repository.
 <br>
-Author- Avinash Sharma
+Author- Avinash Kumar Sharma
 
